@@ -1,4 +1,10 @@
 RESOULUSI KONTEN
--Membuat artikel Web dev
+-Membuat artikel 
++Seputar dunia IT
 -Dasar Pemprograman
++Javascipt
++PHP
++Python
++Java
 -Database
++MySQL
